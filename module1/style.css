@@ -63,7 +63,7 @@ a {
 .promo {
   max-width: 1248px;
   min-height: 560px;
-  background: no-repeat url('/assets/image1.png');
+  background: no-repeat url('./assets/image1.png');
   background-size: 885px 468px;
   background-position: bottom 0px right 0px;
   margin-bottom: 100px;
@@ -179,19 +179,19 @@ a {
   margin-bottom: 50px;
 }
 .feature_1 {
-  background: no-repeat url('/assets/featureBg1.png');
+  background: no-repeat url('./assets/featureBg1.png');
   background-position: right 0px bottom 0px;
 }
 .feature_2 {
-  background: no-repeat url('/assets/featureBg2.png');
+  background: no-repeat url('./assets/featureBg2.png');
   background-position: right 0px bottom 0px;
 }
 .feature_3 {
-  background: no-repeat url('/assets/featureBg3.png');
+  background: no-repeat url('./assets/featureBg3.png');
   background-position: right 0px bottom 0px;
 }
 .feature_4 {
-  background: no-repeat url('/assets/featureBg4.png');
+  background: no-repeat url('./assets/featureBg4.png');
   background-position: right 0px bottom 0px;
 }
 .feature__logo {
